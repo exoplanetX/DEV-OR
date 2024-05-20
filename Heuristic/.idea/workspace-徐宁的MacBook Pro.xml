@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16cbf70a-086d-4968-9dde-21c13cdcc31f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/DEV-OR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/DEV-OR.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/.idea/Gurobipy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/.idea/Gurobipy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/C1_10_1.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/C1_10_1.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/bnb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/bnb.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/c101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/c101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/gurobi-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/gurobi-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/gurobi-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/gurobi-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/model.lp" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/model.lp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/solomon-100/in/c101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/solomon-100/in/c101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gurobipy/solomon-100/in/c201.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Gurobipy/solomon-100/in/c201.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/.ropeproject/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/.ropeproject/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BellmanFord.py" beforeDir="false" afterPath="$PROJECT_DIR$/BellmanFord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVRP-tabu-v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CVRP-tabu-v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalSearch-TSP.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalSearch-TSP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TSP-LS-OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/TSP-LS-OOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TSP-tabu-cut-insert-v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TSP-tabu-cut-insert-v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TSP-tabu-v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TSP-tabu-v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TSP-test-OOP-v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/TSP-test-OOP-v3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VRPofBellmanFord.py" beforeDir="false" afterPath="$PROJECT_DIR$/VRPofBellmanFord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset-52cities.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset-52cities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routetools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/routetools/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routetools/greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/routetools/greedy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/md.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vrptest.py" beforeDir="false" afterPath="$PROJECT_DIR$/vrptest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/过程文档/AntColony.py" beforeDir="false" afterPath="$PROJECT_DIR$/过程文档/AntColony.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/过程文档/TSP-tabu.py" beforeDir="false" afterPath="$PROJECT_DIR$/过程文档/TSP-tabu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/过程文档/TSPfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/过程文档/TSPfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/过程文档/TSPtabu.py" beforeDir="false" afterPath="$PROJECT_DIR$/过程文档/TSPtabu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/过程文档/city52.py" beforeDir="false" afterPath="$PROJECT_DIR$/过程文档/city52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/过程文档/pro1.py" beforeDir="false" afterPath="$PROJECT_DIR$/过程文档/pro1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/过程文档/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/过程文档/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPPRC/1_generic_label_correcting/agent.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SPPRC/1_generic_label_correcting/agent.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPPRC/LabelCorrecting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SPPRC/LabelCorrecting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPPRC/SPPRC.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SPPRC/SPPRC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPPRC/input_file/node.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SPPRC/input_file/node.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPPRC/input_file/road_link.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SPPRC/input_file/road_link.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplex/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplex/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplex/.idea/Simplex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplex/.idea/Simplex.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplex/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplex/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplex/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplex/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplex/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplex/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplex/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplex/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplex/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplex/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplex/pro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplex/pro.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VRPTW/.idea/VRPTW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../VRPTW/.idea/VRPTW.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VRPTW/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VRPTW/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VRPTW/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VRPTW/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VRPTW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VRPTW/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VRPTW/c101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../VRPTW/c101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VRPTW/gurobicode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../VRPTW/gurobicode.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VRPTW/solomon-100/in/c101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../VRPTW/solomon-100/in/c101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VRPTW/solomon-100/in/c201.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../VRPTW/solomon-100/in/c201.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/.idea/benders.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/.idea/benders.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/Primal-Dual.py" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/Primal-Dual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/benders1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/benders1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/benders2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/benders2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benders/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../benders/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cplexfile/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cplexfile/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cplexfile/pymip/process1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cplexfile/pymip/process1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scip1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scip1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vrp列生成算法/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../vrp列生成算法/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vrp列生成算法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vrp列生成算法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vrp列生成算法/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vrp列生成算法/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vrp列生成算法/.idea/vrp列生成算法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../vrp列生成算法/.idea/vrp列生成算法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vrp列生成算法/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../vrp列生成算法/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dataset-52cities.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LocalSearch-TSP.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VxyYtRJPHRxR2tbUq6H3RnBgJF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16cbf70a-086d-4968-9dde-21c13cdcc31f" name="Changes" comment="" />
+      <created>1695792079941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695792079941</updated>
+      <workItem from="1695792082102" duration="556000" />
+      <workItem from="1695796191213" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
