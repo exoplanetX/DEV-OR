@@ -82,9 +82,9 @@ class Data:
             for j in range(data.nodeNum):
                 if(i == j):
                     data.arcs[i,j]=0
-                elif:(data.readyTime[i]+data.serviceTime[i]+data.disMatrix[i][j]>data.dueTime[j] or data.demand[i]+data.demand[j]>data.capacity):
+                elif(data.readyTime[i]+data.serviceTime[i]+data.disMatrix[i][j]>data.dueTime[j] or data.demand[i]+data.demand[j]>data.capacity):
                     data.arcs[i,j]=0
-                elif:(data.readyTime[0]+data.serviceTime[i]+data.disMatrix[0][j]+data.disMatrix[i][data.nodeNum-1]>data.dueTime[data.nodeNum-1]):
+                elif(data.readyTime[0]+data.serviceTime[i]+data.disMatrix[0][j]+data.disMatrix[i][data.nodeNum-1]>data.dueTime[data.nodeNum-1]):
                     print("the calculating example is false")
                 else:
                     data.arcs[i,j]=1
@@ -102,12 +102,12 @@ class Data:
             print('{0}\t{1}\t{3}'.format(data.demand[i],data.readyTime[i],data.dueTime[i], data.serviceTime[i]))
 
         print("---------距离矩阵----------")
-        for i in range(data.nodeNum)：
+        for i in range(data.nodeNum):
             print("%6.2f" % (data.disMatrix[i][j]),end=" ")
         print()
 
 def printData(data, customerNum):
-    print("下面打印数据\n"):
+    print("下面打印数据\n):
     print("vehicle number= %4d" % data.vehicleNum)
     print("vehicle capacity =%4d" % data.capacity)
     for i in range(len(data.demand)):
